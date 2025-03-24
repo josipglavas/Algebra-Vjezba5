@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Zadatak1 {
     public static void main(String[] args){
         double povrsina = 0;
         Scanner input = new Scanner(System.in);
